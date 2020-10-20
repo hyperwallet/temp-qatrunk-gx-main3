@@ -1,1 +1,2 @@
 qatrunk_gx_main_3_routines.sql.gz filter=lfs diff=lfs merge=lfs -text
+qatrunk_gx_main_2_data.sql.gz filter=lfs diff=lfs merge=lfs -text
